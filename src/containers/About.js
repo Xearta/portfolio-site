@@ -43,17 +43,17 @@ const About = () => {
       </div>
       <div className='about-social-links'>
         <div className='about-social-link'>
-          <a href='http://github.com/xearta' target='_blank'>
+          <a href='http://github.com/xearta' target='_blank' rel='noopener noreferrer'>
             <FaGithub className='fa' size={35} />
           </a>
         </div>
         <div className='about-social-link'>
-          <a href='https://www.linkedin.com/in/tanner-townsend-302077186/' target='_blank'>
+          <a href='https://www.linkedin.com/in/tanner-townsend-302077186/' target='_blank' rel='noopener noreferrer'>
             <FaLinkedinIn className='fa' size={35} />
           </a>
         </div>
         <div className='about-social-link'>
-          <a href='https://codepen.io/Xearta' target='_blank'>
+          <a href='https://codepen.io/Xearta' target='_blank' rel='noopener noreferrer'>
             <FaCodepen className='fa' size={35} />
           </a>
         </div>
